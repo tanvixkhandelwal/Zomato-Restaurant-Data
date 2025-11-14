@@ -1,0 +1,55 @@
+# =========================
+# Zomato Project Gitignore
+# =========================
+
+# Excel temporary files
+~$*.xlsx
+*.tmp
+*.bak
+
+# Power Query / Office cache
+*.cache
+*.ldb
+
+# Power BI (if any)
+*.pbip
+*.pbit
+*.rdl.data
+*.rdl.rds
+*.AutoRecovery
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# VS Code / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python/R environment files (just in case)
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+
+# Node / dependency folders (optional safety)
+node_modules/
+
+# OS-generated files
+ehthumbs.db
+*.stackdump
+
+# Backup files
+*.old
+*.orig
+
+# Zip / archives if you imported raw files
+*.zip
+*.7z
+*.rar

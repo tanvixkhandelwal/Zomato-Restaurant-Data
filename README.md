@@ -109,6 +109,35 @@ This dashboard helps identify:
 - Tier 2 cities show **promising but uneven delivery adoption**, suggesting potential for expansion in select markets.
 
 ---
+## Dashboard Overview
+
+### **Tier 1 Cities Dashboard**
+![Tier 1 Dashboard](images/Zomato%20Restaurant%20Tier%201%20Cities%20Analysis.png)
+
+### **Tier 2 Cities Dashboard**
+![Tier 2 Dashboard](images/Zomato%20Restaurant%20Tier%202%20Cities%20Analysis.png)
+
+
+## Dynamic Line Chart (Price Range vs Behaviour)
+
+The line chart dynamically changes based on the selected behaviour metric.  
+Below are screenshots of all four dropdown-driven variations.
+
+### **1. Ratings vs Price Range**
+![Dynamic Line Chart - Ratings](images/Zomato%20Restaurant%20Dynamic%20Line%20Chart%20Ratings.png)
+
+
+### **2. Online Delivery % vs Price Range**
+![Dynamic Line Chart - Delivery](images/Zomato%20Restaurant%20Dynamic%20Line%20Chart%20Delivery.png)
+
+
+### **3. Table Booking % vs Price Range**
+![Dynamic Line Chart - Booking](images/Zomato%20Restaurant%20Dynamic%20Line%20Chart%20Booking.png)
+
+
+### **4. Number of Cuisines vs Price Range**
+![Dynamic Line Chart - Cuisines](images/Zomato%20Restaurant%20Dynamic%20Line%20Chart%20Cuisines.png)
+
 
 ## ** Business Recommendations**
 
@@ -141,6 +170,17 @@ Since this project is shared through screenshots (not the Excel file), follow th
    The key insights and recommendations summarize the findings so you don't need the actual Excel file.
 6. **Refer to the Analytical Approach**  
    To understand how the transformations, mapping, tier classification, and formulas were applied using Excel + Power Query.
+
+   ##  Contact  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvikhandelwal30)  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tanvikhandelwal14@gmail.com)  
+
+
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-TSQL-blue?logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow?logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoftexcel&logoColor=white)
+
 
 
 
